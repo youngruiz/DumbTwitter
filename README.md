@@ -1,5 +1,7 @@
 # Twitter - Part II
 
+**DumbTwitter** is a basic twitter app to read your tweets.
+
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
 Time spent: **6** hours spent in total
@@ -31,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 
 
 
-# Project 3 - *DumbTwitter*
+# Twitter - Part I
 
 **DumbTwitter** is a basic twitter app to read your tweets.
 
